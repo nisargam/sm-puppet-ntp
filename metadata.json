@@ -1,0 +1,15 @@
+{
+  "name": "ym-ntp",
+  "version": "0.1.0",
+  "author": "ym",
+  "summary": "This is for NTP",
+  "license": "Apache-2.0",
+  "source": "git@github.com:nisargam/sm-puppet-ntp.git",
+  "project_page": "https://github.com/nisargam/sm-puppet-ntp",
+  "issues_url": "https://github.com/nisargam/sm-puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
